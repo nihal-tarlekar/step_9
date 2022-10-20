@@ -1,0 +1,1365 @@
+@media (max-width: 2560px){
+    .navbar-nav {
+        margin-left: 3%;
+    }
+    .carousel-caption h1 {
+        font-size: 108px;
+    }
+    .carousel-caption p {
+        font-size: 34px;
+    }
+    .carousel-caption {
+        left: 29%;
+    }
+    .carousal-service-caption h6 {
+        font-size: 28px;
+    }
+    .carousal-service-caption p {
+        font-size: 21px;
+    }
+    .carousal-service {
+        margin-top: -4%;
+    }
+    .carousel-indicators {
+        right: 14%;
+        bottom: 15%;
+    }
+    .about-caption h6, .service-caption h6, .work-caption h6, .approach-caption h6, .leadership-caption h6, .career-caption-1 h6 {
+        font-size: 22px;
+        letter-spacing: 6px;
+    }
+    .about-caption h3, .service-caption h3, .approach-caption h3, .leadership-caption h3, .work-caption h3{
+        font-size: 64px;
+    }
+    .about-caption p, .approach-caption p, .work-caption p {
+        font-size: 32px;
+    }
+    .about-list li {
+        font-size: 30px;
+    }
+    .about-list{
+        padding-top: 5%;
+    }
+    .about-btn, .btn-work {
+        font-size: 30px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 25px;
+        padding-right: 30px;
+    }
+    .service-box h4 {
+        font-size: 24px;
+    }
+    .service-box p {
+        font-size: 16px;  
+    }
+    .box-3 {
+        padding-bottom: 25%;
+    }
+    .box-1, .box-4, .box-5 {
+        padding-bottom: 18%;
+    }
+    .strategy-caption h4 {
+        font-size: 32px;
+    }
+    .strategy-caption p {
+        font-size: 25px;
+    }
+}
+@media (max-width: 1920px){
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 16px;
+    }
+    .carousel-caption h1 {
+        font-size: 92px;
+    }
+    .carousel-caption p {
+        font-size: 28px;
+    }
+    .carousel-caption {
+        left: 21%;
+    }
+    .navbar-nav{
+        margin-left: 0;
+    }
+    .carousal-service {
+        margin-top: -6%;
+        margin-bottom: 5%;
+    }
+    .carousal-service-caption p {
+        font-size: 20px;
+        padding-top: 5%;
+    }
+    .learn-more {
+        font-size: 18px;
+    }
+    .carousel-indicators {
+        right: 7%;
+        bottom: 20%;
+    }
+    .about-caption h6, .service-caption h6, .work-caption h6, .approach-caption h6, .leadership-caption h6, .career-caption-1 h6 {
+        font-size: 20px;
+        letter-spacing: 5px;
+    }
+    .about-caption h3, .service-caption h3, .approach-caption h3, .leadership-caption h3, .work-caption h3 {
+        font-size: 58px;
+    }
+    .about-caption p, .approach-caption p, .work-caption p {
+        font-size: 26px;
+    }
+    .about-list li {
+        font-size: 22px;
+    }
+    .about-btn, .btn-work {
+        font-size: 26px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 25px;
+        padding-right: 30px;
+    }
+    .strategy-caption h4 {
+        font-size: 28px;
+    }
+    .strategy-caption p {
+        font-size: 21px;
+    }
+}
+@media (max-width: 1600px){
+    .carousel-caption h1 {
+        font-size: 90px;
+    }
+    .carousel-caption p {
+        font-size: 26px;
+    }
+    .carousel-caption {
+        left: 15.2%;
+    }
+    .carousal-service-caption h6 {
+        font-size: 26px;
+    }
+    .carousal-service-caption p {
+        font-size: 19px;
+        padding-top: 5%;
+    }
+    .carousal-service {
+        margin-top: -7%;
+    }
+    .carousel-indicators {
+        right: 2%;
+        bottom: 22.5%;
+    }
+    .about-caption h6, .service-caption h6, .work-caption h6, .approach-caption h6, .leadership-caption h6, .career-caption-1 h6 {
+        font-size: 18px;
+        letter-spacing: 4px;
+    }
+    .about-caption h3, .service-caption h3, .approach-caption h3, .leadership-caption h3, .work-caption h3 {
+        font-size: 52px;
+    }
+    .about-caption p, .approach-caption p, .work-caption p {
+        font-size: 22px;
+    }
+    .about-list li {
+        font-size: 18px;
+    }
+    .about-btn, .btn-work {
+        font-size: 22px;
+        padding-top: 18px;
+        padding-bottom: 18px;
+        padding-left: 22px;
+        padding-right: 38px;
+    }
+    .strategy-caption h4 {
+        font-size: 24px;
+    }
+    .strategy-caption p {
+        font-size: 19px;
+    }
+}
+@media (max-width: 1440px){
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 16px;
+    }
+    .navbar-nav {
+        margin-left: 0%;
+    }
+    .carousel-caption h1 {
+        font-size: 86px;
+    }
+    .carousel-caption p {
+        font-size: 24px;
+    }
+    .carousel-caption {
+        left: 11.4%;
+    }
+    .carousal-service-caption h6 {
+        font-size: 25px;
+    }
+    .carousal-service-caption p {
+        font-size: 18px;
+        padding-top: 4%;
+    }
+    .carousel-indicators {
+        right: -3%;
+        bottom: 24%;
+    }
+    .about-caption h6, .service-caption h6, .work-caption h6, .approach-caption h6, .leadership-caption h6, .career-caption-1 h6 {
+        font-size: 17px;
+        letter-spacing: 4px;
+    }
+    .about-caption h3, .service-caption h3, .approach-caption h3, .leadership-caption h3, .work-caption h3 {
+        font-size: 46px;
+    }
+    .about-caption p, .approach-caption p, .work-caption p {
+        font-size: 19px;
+    }
+    .about-list li {
+        font-size: 16px;
+    }
+    .about-btn, .btn-work {
+        font-size: 20px;
+        padding-top: 16px;
+        padding-bottom: 16px;
+        padding-left: 20px;
+        padding-right: 36px;
+    }
+    .strategy-caption h4 {
+        font-size: 22px;
+    }
+    .strategy-caption p {
+        font-size: 17px;
+    }
+}
+@media (max-width: 1366px){
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 15px;
+    }
+    .navbar-nav {
+        margin-left: 4%;
+    }
+    .carousel-indicators {
+        right: -5%;
+        bottom: 24%;
+    }
+    .carousel-caption {
+        left: 9.4%;
+    }
+    .carousel-caption h1 {
+        font-size: 84px;
+    }
+    .carousel-caption p {
+        font-size: 23px;
+    }
+    .carousal-service-caption h6 {
+        font-size: 23px;
+    }
+    .carousal-service-caption p {
+        font-size: 17px;
+        padding-top: 4%;
+    }
+    .carousal-service {
+        margin-top: -8%;
+    }
+    .about-caption h6, .service-caption h6, .work-caption h6, .approach-caption h6, .leadership-caption h6, .career-caption-1 h6 {
+        font-size: 16px;
+        letter-spacing: 4px;
+    }
+    .about-caption h3, .service-caption h3, .approach-caption h3, .leadership-caption h3, .work-caption h3 {
+        font-size: 43px;
+    }
+    .about-caption p, .approach-caption p, .work-caption p {
+        font-size: 17px;
+    }
+    .about-list li {
+        font-size: 14px;
+    }
+    .about-btn, .btn-work {
+        font-size: 16px;
+        padding-top: 16px;
+        padding-bottom: 16px;
+        padding-left: 20px;
+        padding-right: 36px;
+    }
+    .strategy-caption h4 {
+        font-size: 20px;
+    }
+    .strategy-caption p {
+        font-size: 16px;
+    }
+}
+@media (max-width: 1280px){
+    .carousel-caption {
+        left: 7%;
+    }
+    .carousel-caption h1 {
+        font-size: 80px;
+    }
+    .carousel-caption p {
+        font-size: 22px;
+    }
+    .carousel-indicators {
+        right: -7%;
+        bottom: 25%;
+    }
+    .carousal-service {
+        margin-top: -10%;
+    }
+    .quick-connect {
+        padding-top: 21%;
+    }
+    .about-caption h3, .service-caption h3, .approach-caption h3, .leadership-caption h3, .work-caption h3 {
+        font-size: 40px;
+    }
+    .about-caption p, .approach-caption p, .work-caption p {
+        font-size: 16px;
+    }
+    .about-list li {
+        font-size: 14px;
+    }
+    .about-btn, .btn-work {
+        font-size: 16px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .strategy-caption h4 {
+        font-size: 18px;
+    }
+    .strategy-caption p {
+        font-size: 14px;
+    }
+}
+@media (max-width: 1240px){
+    .carousel-caption h1 {
+        font-size: 72px;
+    }
+    .carousel-caption p {
+        font-size: 20px;
+    }
+    .carousel-caption {
+        left: 5.4%;
+    }
+    .carousal-service-caption h6 {
+        font-size: 22px;
+    }
+    .carousal-service-caption p {
+        font-size: 16px;
+        padding-top: 4%;
+    }
+    .carousel-indicators {
+        right: -9%;
+        bottom: 25%;
+    }
+    .about-caption h6, .service-caption h6, .work-caption h6, .approach-caption h6, .leadership-caption h6, .career-caption-1 h6 {
+        font-size: 14px;
+        letter-spacing: 4px;
+    }
+    .about-caption h3, .service-caption h3, .approach-caption h3, .leadership-caption h3, .work-caption h3 {
+        font-size: 38px;
+    }
+    .about-list li {
+        font-size: 12px;
+    }
+    .img-right-sign{
+        width: 14%
+    }
+    .service-box h4 {
+        font-size: 22px;
+    }
+    .service-box p {
+        font-size: 14px;
+    }
+    .box-3 {
+        padding-bottom: 12%;
+    }
+}
+@media (max-width: 1152px){
+    .navbar-nav {
+        margin-left: 0%;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 13px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .quote {
+        padding-left: 0%;
+        padding-right: 0%;
+    }
+    .carousel-caption h1 {
+        font-size: 64px;
+    }
+    .carousel-caption p {
+        font-size: 18px;
+    }
+    .carousel-caption {
+        left: 9.8%;
+    }
+    .carousal-service-caption h6 {
+        font-size: 20px;
+    }
+    .carousal-service-caption p {
+        font-size: 15px;
+        padding-top: 3%;
+    }
+    .carousal-service {
+        margin-top: -9%;
+    }
+    .our-service-btn, .our-service-btn-1 {
+        font-size: 14px;
+        padding-top: 13px;
+        padding-bottom: 13px;
+        padding-left: 18px;
+        padding-right: 30px;
+    }
+    .carousel-indicators {
+        right: -5%;
+        bottom: 24%;
+    }
+    .mail-caption-1 h5 {
+        font-size: 20px;
+    }
+    .mail-caption-1 p, .mail-caption-1 p a {
+        font-size: 11px;
+    }
+    .img-mail {
+        width: 74%;
+        margin-top: 16%;
+    }
+    .about-caption h6, .service-caption h6, .work-caption h6, .approach-caption h6, .leadership-caption h6, .career-caption-1 h6 {
+        font-size: 13px;
+        letter-spacing: 4px;
+    }
+    .about-caption h3, .service-caption h3, .approach-caption h3, .leadership-caption h3, .work-caption h3 {
+        font-size: 34px;
+    }
+    .service-box h4 {
+        font-size: 20px;
+    }
+    .service-box p, .strategy-caption p, .sub-footer-caption p, .sub-footer-caption-1 p, .sub-footer-caption-1 p a {
+        font-size: 13px;
+    }
+    .box-3 {
+        padding-bottom: 25%;
+    }
+    .btn-service {
+        font-size: 15px;
+    }
+    .strategy-caption h4 {
+        font-size: 17px;
+    }
+    .about-btn, .btn-work {
+        font-size: 15px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .footer-caption p {
+        font-size: 12px;
+    }
+    .footer-caption h4, .footer-caption h5 {
+        font-size: 17px;
+    }
+    .footer-list a {
+        font-size: 12px;
+    }
+    .form-control {
+        padding-right: 10%;
+    }
+    /* contact */
+    .quick-contact h5, .quick-contact h6, .quick-contact-1 h6, .quick-contact-1 p, .quick-contact-1 p a {
+        font-size: 18px;
+    }
+    .quick-contact p, .quick-contact p a {
+        font-size: 12px;
+    }
+}
+@media (max-width: 1024px) and (max-height: 1366px){
+    .logo {
+        width: 70%;
+    }
+    .navbar-brand {
+        margin-right: -1rem;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 14px;
+        padding-left: 11px;
+        padding-right: 11px;
+    }
+    .navbar-nav {
+        margin-left: -3%;
+    }
+    .carousel-caption h1 {
+        font-size: 60px;
+    }
+    .carousel-caption {
+        left: 5%;
+    }
+    .our-service-btn, .our-service-btn-1 {
+        font-size: 14px;
+        padding-top: 13px;
+        padding-bottom: 13px;
+        padding-left: 18px;
+        padding-right: 25px;
+    }
+    .carousel-indicators {
+        right: -9%;
+        bottom: 26%;
+    }
+    .about-caption h3, .service-caption h3, .approach-caption h3, .leadership-caption h3, .work-caption h3 {
+        font-size: 30px;
+    }
+    .about-caption p, .approach-caption p, .work-caption p {
+        font-size: 14px;
+    }
+    .about-list li {
+        font-size: 11px;
+    }
+    .about-btn, .btn-work {
+        font-size: 14px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .service-box h4 {
+        font-size: 18px;
+    }
+    .strategy-caption p {
+        font-size: 13px;
+    }
+    .box-6{
+        padding-bottom: 18%;
+    }
+}
+@media (max-width: 1024px){
+    /* contact */
+    .quick-contact, .quick-contact-1 {
+        padding-bottom: 17%;
+        padding-top: 17%;
+    }
+    .box-3 {
+        padding-bottom: 24%;
+    }
+}
+@media (max-width: 800px){
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 20px;
+    }
+    .header{
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+    .navbar-light .navbar-toggler{
+        border-color: transparent;
+    }
+    .toggle{
+        width: 70%;
+    }
+    .navbar-nav {
+        margin-left: 0%;
+        align-items: baseline;
+        margin-top: 5%;
+    }
+    .quote, .number{
+        display: none;
+    }
+    .carousel-caption h1 {
+        font-size: 42px;
+    }
+    .carousel-caption p {
+        font-size: 16px;
+    }
+    .carousel-caption {
+        left: 8%;
+    }
+    .carousal-service-caption h6 {
+        font-size: 17px;
+    }
+    .carousal-service-caption p {
+        font-size: 14px;
+        padding-top: 3%;
+    }
+    .learn-more {
+        font-size: 16px;
+    }
+    .carousal-service-btn {
+        margin-left: 2%;
+    }
+    .our-service-btn, .our-service-btn-1 {
+        font-size: 14px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-left: 18px;
+        padding-right: 18px;
+    }
+    .our-service-btn-1 {
+        margin-left: 5%;
+    }
+    .carousal-service {
+        margin-top: -10%;
+    }
+    .mail-caption-1 h5 {
+        font-size: 16px;
+    }
+    .mail-caption-1 {
+        padding-left: 0%;
+    }
+    .carousel-indicators {
+        right: -8%;
+        bottom: 27%;
+    }
+    .about-caption h6, .service-caption h6, .work-caption h6, .approach-caption h6, .leadership-caption h6, .career-caption-1 h6 {
+        font-size: 12px;
+        letter-spacing: 4px;
+    }
+    .about-caption h3, .service-caption h3, .approach-caption h3, .leadership-caption h3, .work-caption h3 {
+        font-size: 24px;
+    }
+    .about-caption p, .approach-caption p, .work-caption p {
+        font-size: 12px;
+    }
+    .about-list li {
+        font-size: 8px;
+    }
+    .img-right-sign {
+        width: 16%;
+    }
+    .about-btn, .btn-work {
+        font-size: 14px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .service-box h4 {
+        font-size: 16px;
+    }
+    .service-box p, .strategy-caption p, .sub-footer-caption p, .sub-footer-caption-1 p, .sub-footer-caption-1 p a {
+        font-size: 12px;
+    }
+    .btn-service {
+        font-size: 14px;
+    }
+    .box-1{
+        padding-bottom: 27%;
+    }
+    .box-3 {
+        padding-bottom: 18%;
+    }
+    .box-5 {
+        padding-bottom: 28%;
+    }
+    .strategy-caption h4 {
+        font-size: 14px;
+    }
+    .strategy-caption p {
+        font-size: 12px;
+    }
+    .strategy {
+        padding-top: 5%;
+    }
+    .btn-work {
+        margin-top: 5%;
+    }
+    .footer-logo {
+        width: 70%;
+    }
+    .footer-caption p, .footer-list a {
+        font-size: 14px;
+    }
+    .footer-caption h4, .footer-caption h5 {
+        font-size: 16px;
+    }
+    .pad-lft {
+        padding-left: 0%;
+    }
+    .footer-caption{
+        padding-bottom: 5%;
+    }
+    .footer-caption p {
+        padding-top: 10%;
+    }
+    .form-control {
+        padding-right: 40%;
+    }
+    .form-inline {
+        margin-bottom: 6%;
+    }
+    /* contact */
+    .quick-contact, .quick-contact-1 {
+        padding-bottom: 10%;
+        padding-top: 10%;
+    }
+    .quick-contact h5, .quick-contact h6, .quick-contact-1 h6, .quick-contact-1 p, .quick-contact-1 p a {
+        font-size: 30px;
+    }
+    .quick-contact p, .quick-contact p a {
+        font-size: 22px;
+    }
+    .contact-form {
+        margin-top: -24%;
+    }
+    .get-in-touch{
+        margin-top: 8%;
+    }
+    .get-in-touch h4 {
+        font-size: 32px;
+    }
+    .get-in-touch p {
+        font-size: 20px;
+    }
+    .btn-smt {
+        font-size: 20px;
+    }
+    
+}
+@media (max-width: 768px){
+    .about-caption h3, .service-caption h3, .approach-caption h3, .leadership-caption h3, .work-caption h3 {
+        font-size: 22px;
+    }
+    .about-caption p, .approach-caption p, .work-caption p {
+        font-size: 10px;
+    }
+    .about-btn, .btn-work {
+        font-size: 12px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .strategy-caption h4 {
+        font-size: 12px;
+    }
+    .form-control {
+        padding-right: 38%;
+    }
+}
+@media (max-width: 480px){
+    .carousel-caption h1 {
+        font-size: 52px;
+    }
+    .header {
+        padding-top: 3%;
+        padding-bottom: 3%;
+    }
+    .carousel-caption p {
+        font-size: 20px;
+        padding-right: 0%;
+    }
+    .carousel-control-next, .carousel-control-prev {
+        width: 15%;
+        bottom: 50%;
+    }
+    .slider-arrow, .how h5 {
+        display: none;
+    }
+    .carousal-service-caption h6 {
+        font-size: 25px;
+    }
+    .carousal-service-caption p {
+        font-size: 19px;
+        padding-top: 3%;
+    }
+    .learn-more {
+        font-size: 18px;
+    }
+    .carousal-service {
+        margin-top: -25%;
+    }
+    .carousel-indicators {
+        right: 0%;
+        bottom: 42%;
+        justify-content: center;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+    }
+    .carousal-service-caption {
+        text-align: center;
+    }
+    .navbar-nav{
+        align-items: center;
+    }
+    .carousel-indicators li {
+        width: 45px;
+        height: 5px;
+        margin-right: 5px;
+        margin-left: 5px;
+    }
+    .carousel-caption {
+        text-align: center;
+        left: 0%;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .carousal-service-btn {
+        margin-left: 0%;
+        margin-top: 8%;
+        margin-bottom: 5%;
+        text-align: center;
+    }
+    .our-service-btn, .our-service-btn-1 {
+        font-size: 18px;
+        padding-top: 14px;
+        padding-bottom: 14px;
+        padding-left: 20px;
+        padding-right: 30px;
+    }
+    .our-service-btn-1 {
+        margin-left: 0%;
+        background-color: #eceaea;
+    }
+    .quick-connect {
+        padding-top: 10%;
+        padding-bottom: 5%;
+        margin-left: 0%;
+        display: none;
+    }
+    .mail-caption-1 h5 {
+        font-size: 20px;
+    }
+    .mail-caption-1 p, .mail-caption-1 p a {
+        font-size: 12px;
+    }
+    .about-caption {
+        padding-top: 5%;
+        padding-bottom: 5%;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .pad-rgt {
+        padding-right: 0px;
+    }
+    .about {
+        text-align: center;
+        padding-top: 0%;
+    }
+    .about-info, .work-info {
+        margin-right: 15px;
+    }
+    .about-caption h6, .service-caption h6, .work-caption h6, .approach-caption h6, .leadership-caption h6, .career-caption-1 h6 {
+        font-size: 18px;
+        letter-spacing: 6px;
+    }
+    .about-caption h3, .service-caption h3, .approach-caption h3, .leadership-caption h3, .work-caption h3 {
+        font-size: 30px;
+    }
+    .about-caption p, .approach-caption p, .work-caption p {
+        font-size: 18px;
+    }
+    .about-list {
+        padding-top: 0%;
+        padding-left: 20%;
+        margin-bottom: 0%;
+        text-align: left;
+    }
+    .about-list li {
+        font-size: 20px;
+        line-height: 3;
+    }
+    .img-right-sign {
+        width: 8%;
+    }
+    .service-list-1 {
+        margin-top: 0%;
+    }
+    .about-btn, .btn-work {
+        font-size: 16px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    .about-btn{
+        margin-top: 8%;
+    }
+    .box-1, .box-2, .box-3, .box-4, .box-5, .box-6{
+        text-align: center;
+        padding-bottom: 8%;
+        margin-bottom: 5%;
+    }
+    .img-service, .img-service-1 {
+        width: 24%;
+        padding-left: 0%;
+    }
+    .service-box h4 {
+        font-size: 26px;
+    }
+    .service-box p, .strategy-caption p{
+        font-size: 18px;
+    }
+    .btn-service {
+        font-size: 22px;
+        margin-left: 0%;
+    }
+    .service-list{
+        margin-top: 10%;
+    }
+    .work-caption {
+        text-align: center;
+        padding-top: 10%;
+        padding-bottom: 10%;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .strategy-caption h4 {
+        font-size: 22px;
+    }
+    .service-box p, .strategy-caption p {
+        font-size: 18px;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .strategy {
+        padding-top: 0%;
+    }
+    .img-strategy {
+        width: 25%;
+        margin-top: 5%;
+    }
+    .footer-logo {
+        width: 60%;
+    }
+    .footer{
+        text-align: center;
+    }
+    .footer-list hr {
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+        
+    }
+    .footer-caption p, .footer-list a {
+        font-size: 16px;
+    }
+    .footer-list {
+        padding-top: 5%;
+    }
+    .footer-caption h4, .footer-caption h5 {
+        font-size: 21px;
+    }
+    .news-para{
+        padding-top: 5% !important;
+    }
+    .footer-list li, .news-para, .form-inline, .footer-caption h4 {
+        padding-left: 0%;
+    }
+    .form-group {
+        margin-bottom: 1rem;
+        width: 100%;
+    }
+    .form-control {
+        padding-right: 14%;
+    }
+    .subscibe-btn {
+        top: 47%;
+        right: 10%;
+    }
+    .form-inline {
+        margin-bottom: 0%;
+    }
+    .footer-caption h5 {
+        padding-left: 0%;
+        padding-top: 5%;
+    }
+    .social-icon {
+        width: 10%;
+        margin-left: 2%;
+    }
+    .sub-footer {
+        display: block;
+        text-align: center;
+    }
+    .sub-footer-caption p, .sub-footer-caption-1 p{
+        font-size: 14px;
+    }
+    .quick-contact h5, .quick-contact h6, .quick-contact-1 h6, .quick-contact-1 p, .quick-contact-1 p a {
+        font-size: 25px;
+        text-align: center;
+    }
+    .quick-contact p, .quick-contact p a {
+        font-size: 19px;
+        text-align: center;
+    }
+    .get-in-touch h4 {
+        font-size: 28px;
+        text-align: center;
+    }
+    .get-in-touch p {
+        font-size: 18px;
+        padding-left: 0%;
+        text-align: center;
+    }
+    .contact-form .form-control {
+        padding: 4% 2%;
+    }
+    ::placeholder{
+        font-size: 20px;
+    }
+    .contact-form {
+        margin-top: 0%;
+        padding-top: 0%;
+    }
+    .get-in-touch-form {
+        padding: 0%;
+        border: 0px solid #BDBDBD;
+        box-shadow: 0px 0px 0px #BDBDBD;
+    }
+    .quick-contact, .quick-contact-1 {
+        padding: 10%;
+    }
+    .gutters{
+        padding-left: 0%;
+        padding-right: 0%;
+    }
+    .btn-smt {
+        font-size: 18px;
+    }
+}
+@media (max-width: 414px){
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 18px;
+    }
+    .carousel-caption h1 {
+        font-size: 48px;
+    }
+    .carousel-caption p {
+        font-size: 19px;
+    }
+    .carousal-service-caption h6 {
+        font-size: 21px;
+    }
+    .carousal-service-caption p {
+        font-size: 16px;
+        padding-top: 3%;
+    }
+    .carousel-indicators {
+        bottom: 42%;
+    }
+    .our-service-btn, .our-service-btn-1 {
+        font-size: 16px;
+        padding-top: 14px;
+        padding-bottom: 14px;
+        padding-left: 15px;
+        padding-right: 20px;
+    }
+    .about-caption h6, .service-caption h6, .work-caption h6, .approach-caption h6, .leadership-caption h6, .career-caption-1 h6 {
+        font-size: 17px;
+        letter-spacing: 6px;
+    }
+    .about-caption h3, .service-caption h3, .approach-caption h3, .leadership-caption h3, .work-caption h3 {
+        font-size: 28px;
+    }
+    .about-caption p, .approach-caption p, .work-caption p {
+        font-size: 17px;
+    }
+    .about-list li {
+        font-size: 18px;
+    }
+    .service-box h4 {
+        font-size: 24px;
+    }
+    .service-box p, .strategy-caption p {
+        font-size: 17px;
+    }
+    .btn-service {
+        font-size: 20px;
+        margin-left: 0%;
+    }
+    .strategy-caption h4 {
+        font-size: 21px;
+    }
+    .service-box p, .strategy-caption p {
+        font-size: 16px;
+    }
+    .footer-caption p, .footer-list a {
+        font-size: 15px;
+    }
+    .footer-caption h4, .footer-caption h5 {
+        font-size: 20px;
+    }
+}
+@media (max-width: 412px){
+    .carousel-caption h1 {
+        font-size: 44px;
+    }
+    .carousel-caption p {
+        font-size: 18px;
+    }
+    .about-caption h6, .service-caption h6, .work-caption h6, .approach-caption h6, .leadership-caption h6, .career-caption-1 h6 {
+        font-size: 16px;
+        letter-spacing: 5px;
+    }
+    .about-caption h3, .service-caption h3, .approach-caption h3, .leadership-caption h3, .work-caption h3 {
+        font-size: 26px;
+    }
+    .about-caption p, .approach-caption p, .work-caption p {
+        font-size: 16px;
+    }
+    .about-list li {
+        font-size: 16px;
+    }
+    .subscibe-btn {
+        top: 48%;
+        right: 10%;
+    }
+    /* contact */
+    .quick-contact h5, .quick-contact h6, .quick-contact-1 h6, .quick-contact-1 p, .quick-contact-1 p a {
+        font-size: 23px;
+    }
+    .quick-contact p, .quick-contact p a {
+        font-size: 18px;
+    }
+    .get-in-touch h4 {
+        font-size: 26px;
+    }
+    .get-in-touch p {
+        font-size: 17px;
+    }
+}
+@media (max-width: 384px){
+    .navbar-brand {
+        margin-right: -3rem;
+    }
+    .logo, .toggle {
+        width: 60%;
+    }
+    .carousel-caption h1 {
+        font-size: 42px;
+    }
+    .carousel-caption p {
+        font-size: 16px;
+    }
+    .carousal-service-caption h6 {
+        font-size: 18px;
+    }
+    .carousal-service-caption p {
+        font-size: 14px;
+        padding-top: 3%;
+    }
+    .carousel-indicators li {
+        width: 35px;
+        height: 5px;
+        margin-right: 4px;
+        margin-left: 4px;
+    }
+    .learn-more {
+        font-size: 16px;
+    }
+    .our-service-btn, .our-service-btn-1 {
+        font-size: 14px;
+        padding-top: 14px;
+        padding-bottom: 14px;
+        padding-left: 15px;
+        padding-right: 20px;
+    }
+    .about-caption h6, .service-caption h6, .work-caption h6, .approach-caption h6, .leadership-caption h6, .career-caption-1 h6 {
+        font-size: 15px;
+        letter-spacing: 4px;
+    }
+    .about-caption h3, .service-caption h3, .approach-caption h3, .leadership-caption h3, .work-caption h3 {
+        font-size: 24px;
+    }
+    .about-caption p, .approach-caption p, .work-caption p {
+        font-size: 15px;
+    }
+    .about-list li {
+        font-size: 15px;
+    }
+    .img-right-sign {
+        width: 6%;
+    }
+    .about-btn, .btn-work {
+        font-size: 15px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    .service-box h4 {
+        font-size: 22px;
+    }
+    .service-box p, .strategy-caption p {
+        font-size: 15px;
+    }
+    .btn-service {
+        font-size: 18px;
+        margin-left: 0%;
+    }
+    .read-more {
+        width: 14%;
+    }
+    .strategy-caption h4 {
+        font-size: 19px;
+    }
+    .service-box p, .strategy-caption p {
+        font-size: 14px;
+    }
+    .footer-caption p, .footer-list a {
+        font-size: 13px;
+    }
+    .sub-footer-caption p, .sub-footer-caption-1 p {
+        font-size: 13px;
+    }
+    .footer-caption h4, .footer-caption h5 {
+        font-size: 18px;
+    }
+    /* contact */
+    .quick-contact p, .quick-contact p a {
+        font-size: 16px;
+    }
+    .quick-contact h5, .quick-contact h6, .quick-contact-1 h6, .quick-contact-1 p, .quick-contact-1 p a {
+        font-size: 22px;
+    }
+    .get-in-touch h4 {
+        font-size: 24px;
+    }
+    .get-in-touch p {
+        font-size: 16px;
+    }
+}
+@media (max-width: 375px){
+    
+}
+@media (max-width: 360px){
+    .carousel-caption h1 {
+        font-size: 40px;
+    }
+    .carousel-caption p {
+        font-size: 15px;
+    }
+    .about-caption h6, .service-caption h6, .work-caption h6, .approach-caption h6, .leadership-caption h6, .career-caption-1 h6 {
+        font-size: 14px;
+        letter-spacing: 3px;
+    }
+    .service-box h4 {
+        font-size: 20px;
+    }
+    .btn-service {
+        font-size: 16px;
+        margin-left: 0%;
+    }
+    .strategy-caption h4 {
+        font-size: 18px;
+    }
+    .service-box p, .strategy-caption p {
+        font-size: 13px;
+    }
+    /* contact */
+    .quick-contact h5, .quick-contact h6, .quick-contact-1 h6, .quick-contact-1 p, .quick-contact-1 p a {
+        font-size: 20px;
+    }
+    .get-in-touch p {
+        font-size: 15px;
+    }
+    .btn-smt {
+        font-size: 17px;
+    }
+    .quick-contact p, .quick-contact p a {
+        font-size: 15px;
+    }
+    .quick-contact h5, .quick-contact h6, .quick-contact-1 h6, .quick-contact-1 p, .quick-contact-1 p a {
+        font-size: 18px;
+    }
+    .quick-contact p, .quick-contact p a {
+        font-size: 14px;
+    }
+    .get-in-touch h4 {
+        font-size: 22px;
+    }
+    .get-in-touch p {
+        font-size: 13px;
+    }
+}
+@media (max-width: 320px){
+    .navbar-brand {
+        margin-right: -5rem;
+    }
+    .logo, .toggle {
+        width: 50%;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 16px;
+    }
+    .carousel-caption h1 {
+        font-size: 36px;
+    }
+    .carousel-caption p {
+        font-size: 14px;
+    }
+    .carousel-caption p {
+        font-size: 14px;
+    }
+    .carousal-service-caption h6 {
+        font-size: 16px;
+    }
+    .carousal-service-caption p {
+        font-size: 12px;
+        padding-top: 3%;
+    }
+    .learn-more {
+        font-size: 14px;
+    }
+    .carousel-indicators {
+        bottom: 42%;
+    }
+    .carousel-indicators li {
+        width: 30px;
+        height: 3px;
+        margin-right: 3px;
+        margin-left: 3px;
+    }
+    .our-service-btn, .our-service-btn-1 {
+        font-size: 12px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .about-caption h6, .service-caption h6, .work-caption h6, .approach-caption h6, .leadership-caption h6, .career-caption-1 h6 {
+        font-size: 12px;
+        letter-spacing: 3px;
+    }
+    .about-caption h3, .service-caption h3, .approach-caption h3, .leadership-caption h3, .work-caption h3 {
+        font-size: 21px;
+    }
+    .about-caption p, .approach-caption p, .work-caption p {
+        font-size: 13px;
+    }
+    .about-list li {
+        font-size: 13px;
+    }
+    .about-btn, .btn-work {
+        font-size: 14px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .service-box h4 {
+        font-size: 19px;
+    }
+    .service-box p, .strategy-caption p {
+        font-size: 12px;
+    }
+    .btn-service {
+        font-size: 14px;
+        margin-left: 0%;
+    }
+    .strategy-caption h4 {
+        font-size: 16px;
+    }
+    .service-box p, .strategy-caption p {
+        font-size: 12px;
+    }
+    .footer-caption p, .footer-list a {
+        font-size: 11px;
+    }
+    .footer-caption h4, .footer-caption h5 {
+        font-size: 16px;
+    }
+    .sub-footer-caption p, .sub-footer-caption-1 p, .sub-footer-caption-1 p a {
+        font-size: 10px;
+    }
+}

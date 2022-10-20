@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.666" height="43.529" viewBox="0 0 24.666 43.529">
+  <g id="phone_1" data-name="phone 1" transform="translate(-110.933)">
+    <g id="Group_2" data-name="Group 2" transform="translate(118.913 2.176)">
+      <g id="Group_1" data-name="Group 1">
+        <path id="Path_3" data-name="Path 3" d="M212.781,25.6h-7.255a.725.725,0,0,0,0,1.451h7.255a.725.725,0,1,0,0-1.451Z" transform="translate(-204.801 -25.6)"/>
+      </g>
+    </g>
+    <g id="Group_4" data-name="Group 4" transform="translate(130.521 2.176)">
+      <g id="Group_3" data-name="Group 3" transform="translate(0)">
+        <path id="Path_4" data-name="Path 4" d="M342.785,25.6h-.725a.725.725,0,1,0,0,1.451h.725a.725.725,0,1,0,0-1.451Z" transform="translate(-341.334 -25.6)"/>
+      </g>
+    </g>
+    <g id="Group_6" data-name="Group 6" transform="translate(120.364 36.999)">
+      <g id="Group_5" data-name="Group 5" transform="translate(0)">
+        <path id="Path_5" data-name="Path 5" d="M225.67,435.2h-1.8a2,2,0,0,0-2,2v.35a2,2,0,0,0,2,2h1.8a2,2,0,0,0,2-2v-.35A2,2,0,0,0,225.67,435.2Zm.55,2.352a.55.55,0,0,1-.55.55h-1.8a.551.551,0,0,1-.551-.55v-.35a.551.551,0,0,1,.551-.551h1.8a.551.551,0,0,1,.551.551Z" transform="translate(-221.867 -435.2)"/>
+      </g>
+    </g>
+    <g id="Group_8" data-name="Group 8" transform="translate(110.933)">
+      <g id="Group_7" data-name="Group 7" transform="translate(0)">
+        <path id="Path_6" data-name="Path 6" d="M132.977,0H113.556a2.626,2.626,0,0,0-2.623,2.623V40.906a2.626,2.626,0,0,0,2.623,2.623h19.421a2.626,2.626,0,0,0,2.623-2.622V2.623A2.626,2.626,0,0,0,132.977,0Zm1.171,40.906a1.173,1.173,0,0,1-1.171,1.172H113.556a1.173,1.173,0,0,1-1.172-1.171V2.623a1.173,1.173,0,0,1,1.172-1.172h19.421a1.173,1.173,0,0,1,1.172,1.172V40.906Z" transform="translate(-110.933)"/>
+      </g>
+    </g>
+    <g id="Group_10" data-name="Group 10" transform="translate(110.933 4.353)">
+      <g id="Group_9" data-name="Group 9">
+        <path id="Path_7" data-name="Path 7" d="M134.875,51.2H111.659a.726.726,0,0,0-.725.725V82.4a.726.726,0,0,0,.725.725h23.215a.726.726,0,0,0,.725-.725V51.925A.726.726,0,0,0,134.875,51.2Zm-.725,30.47H112.385V52.651h21.764Z" transform="translate(-110.934 -51.2)"/>
+      </g>
+    </g>
+  </g>
+</svg>
